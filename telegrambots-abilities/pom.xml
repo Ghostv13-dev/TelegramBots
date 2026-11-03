@@ -61,7 +61,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <mapdb.version>3.1.0</mapdb.version>
-        <guava.version>33.0.0-jre</guava.version>
+        <guava.version>33.7.1-jre</guava.version>
     </properties>
 
     <dependencyManagement>
